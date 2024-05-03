@@ -46,7 +46,6 @@ const HomePage = () => {
   },[])
 
   return (
-    <script src="https://cdn.tailwindcss.com"></script>
     <div className="overflow-x-hidden">
       <div>
         <MobileNav nav={nav} closeNav={closeNav}/>
