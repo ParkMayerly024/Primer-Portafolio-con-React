@@ -4,8 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://cdn.tailwindcss.com");
-
 @layer components {
   .nav-link{
     @apply relative font-semibold text-white cursor-pointer text-[17px] w-fit md:block after:block after:content-[''] 
